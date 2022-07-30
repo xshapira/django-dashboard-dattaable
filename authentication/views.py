@@ -50,7 +50,7 @@ def register_user(request):
 
             msg     = 'User created.'
             success = True
-            
+
             #return redirect("/login/")
 
         else:
